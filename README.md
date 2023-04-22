@@ -5,4 +5,5 @@ A storage directory for where I store high quality images of North Shore Mountai
 
 _"This project is a GitHub repo directory for all of your NSMRS photo needs! Weather it would be for content creation, personal uses, remix, or whatever, this project has your back."_
 
-**For FAQs, Contribute Guidelines, and more: Visit the repo's wiki tab.** (or just click here ig: https://github.com/kirbix12/NSMRS-Stock-Photography/wiki)
+**For FAQs, Contribute Guidelines, and more: Visit the repo's wiki tab.**<br>
+(or just click here ig: https://github.com/kirbix12/NSMRS-Stock-Photography/wiki)
