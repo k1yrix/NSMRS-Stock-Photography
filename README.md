@@ -10,3 +10,7 @@ _"This project is a GitHub repo directory for all of your NSMRS photo needs! Wea
 
 I highly reccomend joining our Discord server for Dev Streams, Product Sneak Peeks, and more!<br>
 https://discord.gg/jhjc2Etzn9
+
+(C) kirbix 2023<br>
+All assets of the game are the property of Virtualite & the Nova! Incorporated team.<br>
+The Nova! Incorporated team/Virtualite has the right to cease and desist this project at any time if any problems were to persist.
