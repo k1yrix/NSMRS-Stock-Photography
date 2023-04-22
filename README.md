@@ -1,5 +1,5 @@
 # NSMRS Stock Photography Project
-![Gen2Logo](https://github.com/kirbix12/NSMRS-Stock-Photography/blob/653724463f91f1eb32faf32eac0da4016e3be370/Readme%20Files/maybe%20ig.png)
+![](https://github.com/kirbix12/NSMRS-Stock-Photography/blob/d4397b658af3d00399c0885e073d9634e11bc817/Readme%20Files/nsmrsspp%20banner.png)
 Welcome to the North Shore Mountains Research Site - Stock Photography Project (NSMRS-SPP)!<br>
 A storage directory for where I store high quality images of North Shore Mountains Research Site on Roblox where anyone can use.
 
