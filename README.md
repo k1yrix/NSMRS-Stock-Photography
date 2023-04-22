@@ -13,4 +13,4 @@ https://discord.gg/jhjc2Etzn9
 
 (C) kirbix 2023<br>
 All assets of the game are the property of Virtualite & the Nova! Incorporated team.<br>
-The Nova! Incorporated administration team/Virtualite has the right to cease and desist this project at any time if any problems were to persist.
+The Nova! Incorporated administration team/Virtualite is allowed and has the right to cease and desist this project at any time if any problems were to persist.
