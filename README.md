@@ -14,5 +14,6 @@ https://discord.gg/jhjc2Etzn9
 ---
 
 (C) kirbix 2023<br>
+All Repo directory and its assets are licenced under "The Unlicence Licence", which is equivilant to a Public Domain.<br>
 All assets of the game are the property of Virtualite & the Nova! Incorporated team.<br>
 The Nova! Incorporated administration team/Virtualite is allowed and has the right to cease and desist this project at any time if any problems were to persist.
