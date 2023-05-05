@@ -9,7 +9,13 @@ The following table below are the **currently supported** photo sets.
 | 0.1.1a   | :white_check_mark: |
 | 0.1a   | :white_check_mark: |
 
-As they are still under alpha release, the lifespan is if they're 5 versions old from the newest release set.
+As they are still under alpha release, the typical lifespan is if they're 5 versions old from the newest release set. The set will then be deemed unsupported. Here are the other support table hierarchy:
+
+| Release Type | Lifespan Duration | 
+| ------------ | ----------------- |
+| Subreleases | 2 weeks after subrelease, otherwise indefinite |
+| Submajors | 1 month |
+**wip not complete yet**
 
 ## Reporting a Vulnerability
 
