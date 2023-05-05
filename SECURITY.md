@@ -17,7 +17,7 @@ As they are still under alpha release, the typical lifespan is if they're 5 vers
 | Submajors (x.x) | Indefinite until next release, 1 month of extended support |
 | Submajor LTS (x.xlts) | Typically 1 year after next submajor release, 2 months of extended support after mainstream expiration |
 | Majors (x) | Indefinite until next release, no exceptions (for now) |
-| Beta Releases | Indefinite until next release, follows Alpha modal |
+| Beta Releases (b suffix) | Indefinite until next release, follows Alpha modal |
 | Alpha Releases (a suffix) | Indefinite until next release, 5 days to expiration |
 
 *Subject to change*
