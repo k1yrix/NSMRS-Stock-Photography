@@ -19,4 +19,4 @@ There is no code really besides photos, but if anything poses a big of a securit
 - Is the vulnerability zero-day?
 - What items are affected in this vulnerability?
 
-Once a security advisory is up, all branches are to be locked down to push until the vulnerability is resolved as pushing further might result the vulnerability getting worse.
+Once a security advisory is up, all branches are to be locked down to push until the vulnerability is resolved as pushing further might result the vulnerability getting worse. On occasion, pull requests might be overwritten if those pull requests are open to fix a vulnerability.
