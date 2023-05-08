@@ -7,7 +7,7 @@ The following table below are the **currently supported** photo sets.
 | Version | Supported?          |
 | ------- | ------------------ |
 | 0.1.1a   | :white_check_mark: |
-| 0.1a   | :white_check_mark: :exclamation: (expiration in 5 days) |
+| 0.1a   | :white_check_mark: :exclamation: (expiration in 10th May 2023) |
 
 As they are still under alpha release, the typical lifespan is if they're 5 versions old from the newest release set. The set will then be deemed unsupported. Here are the other support table hierarchy:
 
