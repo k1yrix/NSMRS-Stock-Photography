@@ -15,6 +15,6 @@ I highly recommend joining our Discord server for Dev Streams, Product Sneak Pee
 ---
 
 (C) kirbix 2023<br>
- This Repo directory and its assets contained in the Repo are licensed under "The Unlicence Licence", which is equivalent to a Public Domain.<br>
+ This Repo directory and its assets contained in the Repo are licensed under CC0, which is equivalent to a Public Domain.<br>
  All assets of the game are the property of Virtualite & the Nova! Incorporated team.<br>
  The Nova! Incorporated administration team/Virtualite is allowed and has the right to cease and desist this project at any time if any problems were to persist.
