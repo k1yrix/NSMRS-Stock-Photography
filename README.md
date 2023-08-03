@@ -1,6 +1,8 @@
 # NSMRS Stock Photography Project
 ![](https://github.com/kirbix12/NSMRS-Stock-Photography/blob/d4397b658af3d00399c0885e073d9634e11bc817/Readme%20Files/nsmrsspp%20banner.png)
 ---
+## This project will initiate a public archive state due before August 21st, 2023. Please see the blog page in the wiki for more info. Thanks for relying on us for the past several months. 
+---
 Welcome to the North Shore Mountains Research Site - Stock Photography Project (NSMRS-SPP)!<br>
  A storage directory for where I store high-quality images of North Shore Mountains Research Site on Roblox that anyone can use.
 
