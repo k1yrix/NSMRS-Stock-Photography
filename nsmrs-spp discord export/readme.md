@@ -1,1 +1,0 @@
-since the server shutted down long ago and I'm planning on converting this one, I decided to export all contents of the server and put it into this repo.
